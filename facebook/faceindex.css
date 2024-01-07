@@ -1,0 +1,73 @@
+body{
+    background-color: whitesmoke;
+}
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    margin-top: 80px;
+    margin-bottom: 10;
+}
+.inp1{
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    height: 14px;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+.but1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    color: white;
+    font-size: 14px;
+    border:2px solid black;
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    
+        
+}
+.main{
+    background-color: white;
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.but2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: green;
+    color:black;
+    font-size: 14px;
+    border:2px solid black;
+    display: inline-block;
+    width: 180px;
+    height: 40px;
+    font-weight: bold;
+    }
+.word{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;      
+}
+.word1{
+    text-align: center;
+    display: block;
+    margin-top: 1px;
+        
+
